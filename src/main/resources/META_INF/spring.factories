@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.mufeng.DaoAspect,\
+com.mufeng.DataSourceConfig
